@@ -13,7 +13,6 @@ import java.util.ArrayList;
 public class ListAdapter extends ArrayAdapter<Item> {
     private ArrayList<Item> items;
     private Context mContext;
-    private int selectedIndex;
 
     public ListAdapter(Context context, ArrayList<Item> items) {
         super(context, 0, items);
