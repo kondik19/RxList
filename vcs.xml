@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/ayon115/Retrofit2.0Sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinvasko/Android-WizardPager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
